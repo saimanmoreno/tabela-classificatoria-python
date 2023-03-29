@@ -1,4 +1,4 @@
-# Tabela Classificativa
+# Tabela Classificativa / Scorecard
 
 O problema consiste em construir uma tabela em que dado uma lista de equipas com o seu nome, número de vitórias, empates, derrotas, golos marcados e golos sofridos, a tarefa passa por criar uma tabela classificativa, ordenada por ordem decrescente de pontos (3 pontos por vitória, 1 por empate e 0 por derrota). Caso mais de uma equipa tenham o mesmo número de pontos, as equipas devem ser classificadas por ordem decrescente do goal average (diferença entre número de golos marcados e sofridos). Caso o empate subsista, devem vir por ordem alfabética crescente do nome.
 
